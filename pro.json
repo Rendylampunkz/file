@@ -1,0 +1,49 @@
+{
+    "autokick": {
+        "c4036b121d3af8dc6b11157b45fd0628d": true,
+        "ca81d459d216f46c452d5c4dc20215c94": true,
+        "cb8a44175d95dfa5d42936f2c436e4f3b": true,
+        "cc89e046ad0dffa757a91140550b7049f": true,
+        "cd2484b9bad4ccd6871a2c22a004f69f1": true,
+        "cfae1af486c83206dc0a30b08b4199d4b": true
+    },
+    "bymsg": {},
+    "intaPoint": {
+        "cd2484b9bad4ccd6871a2c22a004f69f1": true,
+        "u13354053565d8f8e638f059cd53aabc0": true
+    },
+    "intaTime": {
+        "cd2484b9bad4ccd6871a2c22a004f69f1": "2018-07-01 13:02",
+        "u13354053565d8f8e638f059cd53aabc0": "2018-06-25 20:36"
+    },
+    "proJs": {
+        "c0073a200c0b2c31db5b00fc4e48d0bf3": true,
+        "c4036b121d3af8dc6b11157b45fd0628d": true,
+        "ca81d459d216f46c452d5c4dc20215c94": true,
+        "cb8a44175d95dfa5d42936f2c436e4f3b": true,
+        "cc89e046ad0dffa757a91140550b7049f": true,
+        "cd2484b9bad4ccd6871a2c22a004f69f1": true,
+        "cfae1af486c83206dc0a30b08b4199d4b": true
+    },
+    "proPoint": {},
+    "proTime": {},
+    "protectcancl": {
+        "cb8a44175d95dfa5d42936f2c436e4f3b": true,
+        "cd2484b9bad4ccd6871a2c22a004f69f1": true,
+        "cfae1af486c83206dc0a30b08b4199d4b": true
+    },
+    "protectgr": {
+        "c4036b121d3af8dc6b11157b45fd0628d": true,
+        "ca81d459d216f46c452d5c4dc20215c94": true,
+        "cb8a44175d95dfa5d42936f2c436e4f3b": true,
+        "cc89e046ad0dffa757a91140550b7049f": true,
+        "cd2484b9bad4ccd6871a2c22a004f69f1": true,
+        "cfae1af486c83206dc0a30b08b4199d4b": true
+    },
+    "protectinvite": {
+        "c4036b121d3af8dc6b11157b45fd0628d": true,
+        "cb8a44175d95dfa5d42936f2c436e4f3b": true,
+        "cd2484b9bad4ccd6871a2c22a004f69f1": true
+    },
+    "wellcome": {}
+}

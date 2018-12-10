@@ -1,0 +1,26 @@
+{
+    "Maxlimit": {},
+    "ROM": {},
+    "blacklist": {
+        "u1d0c79eb36c1f67efe13fa170824fc1f": true,
+        "u9d49b6eba93b77022f97e7182ba40c98": true
+    },
+    "commentBlack": {},
+    "readMember": {
+        "cd2484b9bad4ccd6871a2c22a004f69f1": {
+            "u28bdff354b8462cce28cf559675b5b81": true,
+            "u7243fa77d70c13fe2fed5fcffaa11334": true,
+            "u89b2cba9d68d5fc83945215529ba8d92": true,
+            "u9e5f25fa6edbb07ff3c54763a6a1a592": true,
+            "uda6ee931e4a32be0e2bfb0eac8f845e6": true,
+            "uf672b81a6fe89d28e369e775149bd665": true
+        }
+    },
+    "readPoint": {
+        "cd2484b9bad4ccd6871a2c22a004f69f1": "8198123359126"
+    },
+    "setTime": {
+        "c2f51ecfc3602b7121ab2952074825fe6": "TANGGAL : 2018-06-25 \nHARI : Monday \nJAM : 22:13:46",
+        "cb7af9deae423d9a5f27335edb94127f3": "TANGGAL : 2018-06-28 \nHARI : Thursday \nJAM : 04:39:15"
+    }
+}
