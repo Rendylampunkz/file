@@ -11,6 +11,5 @@ git ini bertujuan untuk membantu kalian yg bingung bagaimana memakai <b>[line-py
 # Notes
 1. Jika os selain ubuntu bisa kalian sesuaikan sendiri<br>
 2. Silahkan ubah User-agen di <b>LINEPY/config.py</b> <b>(</b>default UA : IOS\t7.14.0\tiPhone OS\t10.12.0<b>)</b><br>
-## Author
-Fadhiil Rachman / [@fadhiilrachman](https://github.com/fadhiilrachman/line-py)
-
+## Penulis
+Rendyshea/https://github.com/Rendylampunkz
